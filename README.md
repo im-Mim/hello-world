@@ -1,2 +1,2 @@
 # hello-world
-test project
+simple hello-world program with java
